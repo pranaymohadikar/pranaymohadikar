@@ -31,4 +31,4 @@
 ### Connect with me
 
 - Kaggle : https://www.kaggle.com/phuskisher
-- Portfolio : https://pranaymohadikar.github.io/  [work in progres]
+- Portfolio : https://pranaymohadikar.github.io/  [work in progress]
